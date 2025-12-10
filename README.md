@@ -1,5 +1,5 @@
 # 💫 About Me:
-Alok Pithale | MERN Stack Developer Crafting full-stack web apps with clean code & creative UI 💻 Passionate about: MERN Stack (MongoDB, Express.js, React, Node.js) | NEXT.js
+17 | Alok Pithale | MERN Stack Developer Crafting full-stack web apps with clean code & creative UI 💻 Passionate about: MERN Stack (MongoDB, Express.js, React, Node.js) | NEXT.js
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alokkxx__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alokk-pithale-02a4972a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlokkxPithale_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokpithale386@gmail.com) 
